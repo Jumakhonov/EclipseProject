@@ -8,19 +8,20 @@ public class HelloWorld {
 		System.out.println(name);
 		
 
-		int a = 5;
-		int b = 10;
-		int c = a + b;
-		System.out.println(c);
+		int age = 28;
+		System.out.println("Age: " + age);
+		
+		String gender = "Male";
+		System.out.println("Gender: " + gender);
 		
 		String nickName = "Aleem";
-		System.out.println(nickName);
+		System.out.println("Nickname: " + nickName);
 
 		
 		String firstName = "Aleem";
 		String lastName = "Jumakhonov";
 		String fullName = firstName + lastName;
-		System.out.println(fullName);
+		System.out.println("Fullname: " + fullName);
 		
 	}
 
