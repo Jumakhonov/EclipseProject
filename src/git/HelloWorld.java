@@ -12,6 +12,11 @@ public class HelloWorld {
 		int c = a + b;
 		System.out.println(c);
 		
+		String firstName = "Aleem";
+		String lastName = "Jumakhonov";
+		String fullName = firstName + lastName;
+		System.out.println(fullName);
+		
 	}
 
 }
