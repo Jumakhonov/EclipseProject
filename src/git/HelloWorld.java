@@ -7,7 +7,7 @@ public class HelloWorld {
 		String name = "Hello World!";
 		System.out.println(name);
 		
-		String name = "Aleem";
+		String nickName = "Aleem";
 		
 	}
 
