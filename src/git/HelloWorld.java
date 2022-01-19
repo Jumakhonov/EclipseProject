@@ -7,14 +7,15 @@ public class HelloWorld {
 		String name = "Hello World!";
 		System.out.println(name);
 		
-<<<<<<< HEAD
+
 		int a = 5;
 		int b = 10;
 		int c = a + b;
 		System.out.println(c);
-=======
-		String name = "Aleem";
->>>>>>> 998d128b3db8999cda5bc07cdc81877913630dad
+		
+		String nickName = "Aleem";
+		System.out.println(nickName);
+
 		
 		String firstName = "Aleem";
 		String lastName = "Jumakhonov";
