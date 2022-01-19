@@ -16,6 +16,11 @@ public class HelloWorld {
 		String name = "Aleem";
 >>>>>>> 998d128b3db8999cda5bc07cdc81877913630dad
 		
+		String firstName = "Aleem";
+		String lastName = "Jumakhonov";
+		String fullName = firstName + lastName;
+		System.out.println(fullName);
+		
 	}
 
 }
