@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println(name);
 		
 		String nickName = "Aleem";
+		System.out.println(nickName);
 		
 	}
 
